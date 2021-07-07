@@ -1,3 +1,3 @@
 # Compiler-Design
 
-Compiler Design Laboratory Assignment.
+Compiler Design Laboratory Assignments.
