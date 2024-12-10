@@ -154,6 +154,3 @@ if __name__ == "__main__":
             Display(AS_Tree)
             Result(AS_Tree)
             print("Value of the Expression: " +  str(AS_Tree.result))
-            
-    
-    
